@@ -34,3 +34,17 @@
       .reverse()
       .join('\n')
   const oper = (fct, s) => fct(s)
+  ```
+# Education:
+  - ### Kremenchug National University: (Specialty: Computer engineering (full-time student))
+  - ### National Technical University of  Ukraine «Kyiv Polytechnic Institute»: (Specialty: Computer engineering (part-time student))
+
+# Courses and ect.:
+### 1. Udemy:
+ - Full course of JavaScript + React
+ - WEB-разработчик 2022
+ - HTML and CSS course(Sergey Nikonov)
+### 2. Many hours of YouTube, Google and Codewars
+# English level:
+  - A2
+  - B1...in progress
