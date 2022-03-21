@@ -1,1 +1,1 @@
-https://defleppard333.github.io/rsschool-cv/cv
+https://defleppard333.github.io/rsschool-cv/
