@@ -11,3 +11,26 @@
 
 # About me:
   I'm a future frontend developer... to be continued!
+# Skills:
+  -	Good knowledge of JavaScript, HTML, CSS
+  -	Experience of creating responsive websites
+  -	Experience with version control systems (GIT)
+# Code examples:
+
+  ```javasrcipt
+  const vertMirror = string =>
+    string
+      .split('\n')
+      .map(str =>
+        str
+          .split('')
+          .reverse()
+          .join('')
+      )
+      .join('\n')
+  const horMirror = string =>
+    string
+      .split('\n')
+      .reverse()
+      .join('\n')
+  const oper = (fct, s) => fct(s)
